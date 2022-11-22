@@ -1,0 +1,23 @@
+@font-face {
+	font-family: myFont;
+	src: url(1.ttf);
+}
+
+@font-face {
+	font-family: newFOnt;
+	src: url(2.ttf);
+}
+
+.box {
+	background: red;
+	height: 200px;
+}
+.text {
+	font-size: 100px;
+	font-family: myFont;	
+	color: white;		
+}
+
+.bg-orange {
+	background: #2D3797;
+}
